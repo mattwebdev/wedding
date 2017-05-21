@@ -503,3 +503,7 @@ table a:hover {
 .breadcrumb ol li:last-child a:after { border: 0; }
 .breadcrumb ol li a:hover { background: hsla(198, 84%, 41%, 1); }
 .breadcrumb ol li a:hover:after { border-left-color: hsla(198, 84%, 41%, 1) !important; }
+
+.field--name-field-image {
+  display:none;
+}
