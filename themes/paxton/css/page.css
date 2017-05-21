@@ -101,9 +101,15 @@ textarea {
   border-bottom: 6px double #f6f6f6;
   border-top: 6px double #f6f6f6;
   padding: 20px 10px 10px 10px;
-  background:white;
+  background: rgba(255, 255, 255, 0.9);
 
 }
+#wrapper {
+  background-image: url(/sites/default/files/2017-05/notesSO12_03_002_1000.jpg);
+  background-color: white;
+  background-size: cover;
+}
+
 .field--type-link .field__item a {
   padding: 9px 12px;
   display: inline-block;
