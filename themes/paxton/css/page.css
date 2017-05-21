@@ -27,7 +27,7 @@ textarea {
   height: auto;
   max-width: 100%;
   max-height: 458px;
-  margin-left: 8%;
+  /**margin-left: 8%;**/
 }
 .content_top_button {
   padding: 10px 25px !important;
@@ -97,9 +97,9 @@ textarea {
   padding: 0;
 }
 .layout {
-  margin: 5px 0px 5px 0px;
+  /**margin: 5px 0px 5px 0px;*/
   border-bottom: 6px double #f6f6f6;
-  border-top: 6px double #f6f6f6;
+  /**border-top: 6px double #f6f6f6;*/
   padding: 20px 10px 10px 10px;
 
 }
