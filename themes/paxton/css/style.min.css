@@ -2033,3 +2033,7 @@ form#newsletter button {
   .comment-des {
     width: 78%}
 }
+
+.credited {
+  display:none;
+}
