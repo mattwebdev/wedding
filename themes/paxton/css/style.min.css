@@ -86,8 +86,9 @@ hr {
   margin-bottom: 10px;
   padding: 6px;
 }
+
 #wrapper {
-  background: blue;
+
 }
 
 ul, ol {
@@ -1708,6 +1709,7 @@ li.current {
   color: #666!important;
 }
 #footer h2,#copyright h2  {
+  display:none;
   padding: 2px 0!important;
   margin-bottom: 10px;
   color: #666;
