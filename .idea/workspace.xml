@@ -24,8 +24,8 @@
       <file leaf-file-name="page.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/paxton/css/page.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="111" column="0" lean-forward="false" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
+            <state relative-caret-position="312">
+              <caret line="30" column="20" lean-forward="false" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -398,7 +398,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1495332766786</updated>
-      <workItem from="1495332768160" duration="5119000" />
+      <workItem from="1495332768160" duration="5276000" />
     </task>
     <task id="LOCAL-00001" summary="add drupal console">
       <created>1495333126971</created>
@@ -519,11 +519,18 @@
       <option name="project" value="LOCAL" />
       <updated>1495340447220</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="add el image-oh back in">
+      <created>1495340680487</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1495340680487</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5119000" />
+    <option name="totallyTimeSpent" value="5276000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="990" extended-state="6" />
@@ -572,7 +579,8 @@
     <MESSAGE value="remove slider" />
     <MESSAGE value="adjust image specs" />
     <MESSAGE value="update tons of font sizes" />
-    <option name="LAST_COMMIT_MESSAGE" value="update tons of font sizes" />
+    <MESSAGE value="add el image-oh back in" />
+    <option name="LAST_COMMIT_MESSAGE" value="add el image-oh back in" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -645,8 +653,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/paxton/css/page.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="111" column="0" lean-forward="false" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
+        <state relative-caret-position="312">
+          <caret line="30" column="20" lean-forward="false" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
           <folding />
         </state>
       </provider>

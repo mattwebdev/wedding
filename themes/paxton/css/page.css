@@ -27,7 +27,8 @@ textarea {
   height: auto;
   max-width: 100%;
   max-height: 458px;
-  /**margin-left: 8%;**/
+  opacity: 0.689;
+  border-radius: 5%;
 }
 .content_top_button {
   padding: 10px 25px !important;
