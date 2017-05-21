@@ -101,26 +101,15 @@ textarea {
   border-bottom: 6px double #f6f6f6;
   /**border-top: 6px double #f6f6f6;*/
   padding: 20px 10px 10px 10px;
-
-}
-#wrapper {
-  background-color: white;
-  background-size: cover;
-}
-
-.layout-details {
-  margin: 5px 0px 5px 0px;
-  border-bottom: 6px double #f6f6f6;
-  border-top: 6px double #f6f6f6;
-  padding: 20px 10px 10px 10px;
   background: rgba(255, 255, 255, 0.7);
 
 }
-#wrapper-details {
+#wrapper {
   background-image: url(http://hitchedheinkes.com/sites/default/files/2017-05/sunkengarden2b-ricepapervig-cetrspotnormal-web2.jpg);
   background-color: white;
   background-size: cover;
 }
+
 .field--name-field-image {
   display:none;
 }

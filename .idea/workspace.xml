@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="65ce3cf0-1c90-49b5-9c51-2ea1e24c3ebd" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/paxton/css/style.min.css" afterPath="$PROJECT_DIR$/themes/paxton/css/style.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/paxton/css/page.css" afterPath="$PROJECT_DIR$/themes/paxton/css/page.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,21 +21,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="page.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="page.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/paxton/css/page.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="17" lean-forward="false" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.min.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/themes/paxton/css/style.min.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="443">
-              <caret line="58" column="16" lean-forward="false" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="16" />
+            <state relative-caret-position="298">
+              <caret line="111" column="0" lean-forward="false" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -44,7 +34,7 @@
       <file leaf-file-name="page.html.twig" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/paxton/templates/page.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
+            <state relative-caret-position="1816">
               <caret line="188" column="20" lean-forward="false" selection-start-line="188" selection-start-column="20" selection-end-line="188" selection-end-column="20" />
               <folding />
             </state>
@@ -76,8 +66,8 @@
         <option value="$PROJECT_DIR$/themes/paxton/css/page-details.css" />
         <option value="$PROJECT_DIR$/themes/paxton/templates/page.html.twig" />
         <option value="$PROJECT_DIR$/themes/paxton/css/parallax-slider.css" />
-        <option value="$PROJECT_DIR$/themes/paxton/css/page.css" />
         <option value="$PROJECT_DIR$/themes/paxton/css/style.min.css" />
+        <option value="$PROJECT_DIR$/themes/paxton/css/page.css" />
       </list>
     </option>
   </component>
@@ -408,7 +398,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1495332766786</updated>
-      <workItem from="1495332768160" duration="4954000" />
+      <workItem from="1495332768160" duration="5119000" />
     </task>
     <task id="LOCAL-00001" summary="add drupal console">
       <created>1495333126971</created>
@@ -522,11 +512,18 @@
       <option name="project" value="LOCAL" />
       <updated>1495340296042</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="update tons of font sizes">
+      <created>1495340447220</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1495340447220</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4954000" />
+    <option name="totallyTimeSpent" value="5119000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="990" extended-state="6" />
@@ -574,7 +571,8 @@
     <MESSAGE value="remove homepage title" />
     <MESSAGE value="remove slider" />
     <MESSAGE value="adjust image specs" />
-    <option name="LAST_COMMIT_MESSAGE" value="adjust image specs" />
+    <MESSAGE value="update tons of font sizes" />
+    <option name="LAST_COMMIT_MESSAGE" value="update tons of font sizes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -621,14 +619,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/paxton/templates/page.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="188" column="20" lean-forward="false" selection-start-line="188" selection-start-column="20" selection-end-line="188" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/paxton/css/parallax-slider.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -637,18 +627,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/paxton/css/page.css">
+    <entry file="file://$PROJECT_DIR$/themes/paxton/css/style.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="17" lean-forward="false" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+        <state relative-caret-position="530">
+          <caret line="58" column="16" lean-forward="false" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/paxton/css/style.min.css">
+    <entry file="file://$PROJECT_DIR$/themes/paxton/templates/page.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="58" column="16" lean-forward="false" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="16" />
+        <state relative-caret-position="1816">
+          <caret line="188" column="20" lean-forward="false" selection-start-line="188" selection-start-column="20" selection-end-line="188" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/paxton/css/page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="111" column="0" lean-forward="false" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
           <folding />
         </state>
       </provider>
