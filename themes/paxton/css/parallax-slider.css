@@ -162,6 +162,7 @@
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ededed',GradientType=0 );
 }
 .da-arrows{
+	display:none;
 	-moz-user-select: none;
 	-webkit-user-select: none;
 }
