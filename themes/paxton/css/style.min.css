@@ -89,9 +89,7 @@ hr {
 #wrapper {
   background: blue;
 }
-.region-content {
-  background:white;
-}
+
 ul, ol {
   margin: 0;
   padding: 0;
