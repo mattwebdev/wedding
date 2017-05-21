@@ -87,7 +87,10 @@ hr {
   padding: 6px;
 }
 #wrapper {
-  background: white;
+  background: blue;
+}
+.node__content {
+  background:white;
 }
 ul, ol {
   margin: 0;
