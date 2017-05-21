@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65ce3cf0-1c90-49b5-9c51-2ea1e24c3ebd" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/paxton/templates/page--details.html.twig" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/paxton/css/page.css" afterPath="$PROJECT_DIR$/themes/paxton/css/page.css" />
     </list>
@@ -24,18 +25,18 @@
       <file leaf-file-name="page.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/paxton/css/page.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="103" column="37" lean-forward="false" selection-start-line="103" selection-start-column="37" selection-end-line="103" selection-end-column="37" />
+            <state relative-caret-position="467">
+              <caret line="125" column="1" lean-forward="false" selection-start-line="125" selection-start-column="1" selection-end-line="125" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="halflings.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/paxton/css/halflings.css">
+      <file leaf-file-name="page--details.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/paxton/templates/page--details.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-26">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="278">
+              <caret line="141" column="18" lean-forward="true" selection-start-line="141" selection-start-column="18" selection-end-line="141" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -44,7 +45,7 @@
       <file leaf-file-name="style.min.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/paxton/css/style.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6708">
+            <state relative-caret-position="26490">
               <caret line="1766" column="15" lean-forward="false" selection-start-line="1766" selection-start-column="15" selection-end-line="1766" selection-end-column="15" />
               <folding />
             </state>
@@ -64,7 +65,17 @@
       <file leaf-file-name="page.html.twig" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/paxton/templates/page.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-836">
+            <state relative-caret-position="76">
+              <caret line="63" column="37" lean-forward="false" selection-start-line="63" selection-start-column="37" selection-end-line="63" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="halflings.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/paxton/css/halflings.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -85,12 +96,12 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>credited</find>
       <find>arrows</find>
       <find>node__content</find>
       <find>background: white</find>
       <find>layout</find>
       <find>blue</find>
+      <find>credited</find>
       <find>#copyright</find>
       <find>wrapper</find>
     </findStrings>
@@ -104,6 +115,8 @@
         <option value="$PROJECT_DIR$/themes/paxton/css/parallax-slider.css" />
         <option value="$PROJECT_DIR$/themes/paxton/templates/html.html.twig" />
         <option value="$PROJECT_DIR$/themes/paxton/css/style.min.css" />
+        <option value="$PROJECT_DIR$/themes/paxton/templates/page--details.html.twig" />
+        <option value="$PROJECT_DIR$/themes/paxton/css/page-details.css" />
         <option value="$PROJECT_DIR$/themes/paxton/css/page.css" />
       </list>
     </option>
@@ -198,32 +211,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wedding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wedding" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="paxton" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -372,6 +359,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes/paxton/css" />
       <recent name="$PROJECT_DIR$/themes/paxton/templates" />
     </key>
   </component>
@@ -460,7 +448,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1495332766786</updated>
-      <workItem from="1495332768160" duration="2886000" />
+      <workItem from="1495332768160" duration="3269000" />
     </task>
     <task id="LOCAL-00001" summary="add drupal console">
       <created>1495333126971</created>
@@ -525,22 +513,29 @@
       <option name="project" value="LOCAL" />
       <updated>1495337878016</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update image, update opacity">
+      <created>1495338070168</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1495338070168</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2886000" />
+    <option name="totallyTimeSpent" value="3269000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="990" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="YouTrack" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -571,21 +566,14 @@
     <MESSAGE value="remove copyright" />
     <MESSAGE value="update page.css to include a background image" />
     <MESSAGE value="dont show the image." />
-    <option name="LAST_COMMIT_MESSAGE" value="dont show the image." />
+    <MESSAGE value="update image, update opacity" />
+    <option name="LAST_COMMIT_MESSAGE" value="update image, update opacity" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/paxton/css/halflings.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-26">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/paxton/css/parallax-slider.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="319">
@@ -610,26 +598,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/paxton/templates/page.html.twig">
+    <entry file="file://$PROJECT_DIR$/themes/paxton/templates/page--details.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-836">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="278">
+          <caret line="141" column="18" lean-forward="true" selection-start-line="141" selection-start-column="18" selection-end-line="141" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/paxton/css/style.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6708">
+        <state relative-caret-position="26490">
           <caret line="1766" column="15" lean-forward="false" selection-start-line="1766" selection-start-column="15" selection-end-line="1766" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/paxton/templates/page.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="63" column="37" lean-forward="false" selection-start-line="63" selection-start-column="37" selection-end-line="63" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/paxton/css/halflings.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/paxton/css/page-details.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/paxton/css/page.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="103" column="37" lean-forward="false" selection-start-line="103" selection-start-column="37" selection-end-line="103" selection-end-column="37" />
+        <state relative-caret-position="467">
+          <caret line="125" column="1" lean-forward="false" selection-start-line="125" selection-start-column="1" selection-end-line="125" selection-end-column="1" />
           <folding />
         </state>
       </provider>
