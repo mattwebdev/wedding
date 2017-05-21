@@ -1764,6 +1764,7 @@ form#newsletter button {
 }
 #copyright {
   padding: 20px 0;
+  display:none;
 }
 #copyright p,#copyright span {
   margin: 0 auto;
