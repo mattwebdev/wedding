@@ -529,6 +529,7 @@ html[xmlns] .slides {
   color: #bbb;
 }
 .jumbotron {
+  display:none;
   background-color: #09afdf !important;
   color:#fff !important;
   border-left: 4px solid #000000;
