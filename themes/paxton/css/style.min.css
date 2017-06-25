@@ -15,6 +15,7 @@
 }
 html {
   -webkit-font-smoothing: antialiased;
+  height:100%;
 }
 .clear {
   clear: both;
@@ -23,6 +24,7 @@ body {
   font-family: 'Hind', sans-serif;
   font-size: 15px !important;
   color: #666 !important;
+  height:100%;
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Hind', sans-serif;

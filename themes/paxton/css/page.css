@@ -109,6 +109,7 @@ textarea {
   background-image: url(http://hitchedheinkes.com/sites/default/files/2017-05/sunkengarden2b-ricepapervig-cetrspotnormal-web2.jpg);
   background-color: white;
   background-size: cover;
+  height: 100%;
 }
 
 .field--name-field-image {
